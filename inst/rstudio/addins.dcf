@@ -1,0 +1,4 @@
+Name: Select Columns
+Description: Select columns from large data frame
+Binding: col_select
+Interactive: true
