@@ -1,4 +1,14 @@
 
+#' Title
+#'
+#' @param df1
+#' @param df2
+#' @param by
+#'
+#' @return
+#' @export
+#'
+#' @examples
 full_join_with_src <- function(df1, df2, by = NULL) {
 
   mutate(df1, tbl_src_x = "tbl_a") -> tbl_a

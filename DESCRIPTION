@@ -1,6 +1,6 @@
 Package: LGTools
 Type: Package
-Title: What the Package Does (Title Case)
+Title: A Random Assortment of Useful Data Munging Tools
 Version: 0.1.0
 Author: Who wrote it
 Maintainer: The package maintainer <yourself@somewhere.net>
@@ -14,3 +14,4 @@ Imports: DT,
          dplyr (>= 0.7),
          miniUI,
          shiny
+RoxygenNote: 6.0.1
